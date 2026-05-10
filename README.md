@@ -5,6 +5,11 @@ SQL and Tableau analysis evaluating how discount strategies affect revenue, gros
 ## Dashboard Preview
 
 ![Dashboard Overview](dashboard_overview.png)
+## Interactive Dashboard
+
+View the fully interactive dashboard on Tableau Public:
+
+[Open Dashboard in Tableau Public]((https://public.tableau.com/app/profile/omar.muniz/viz/DiscountStrategyAnalysis/Dashboard1?publish=yes))
 
 ## Business Problem
 
