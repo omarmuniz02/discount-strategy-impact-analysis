@@ -181,3 +181,8 @@ Instead, I clarified the stakeholder’s concern, developed hypotheses, tested t
 This project reinforced one of the most important principles in analytics:
 
 > Strong analysts do not search for confirmation—they search for the truth.
+
+## 📂 Project Files
+
+- [SQL Analysis Script](sql/discount_strategy_analysis.sql)
+- [Tableau Workbook](tableau/Discount_Strategy_Impact_Analysis.twbx)
