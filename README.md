@@ -185,4 +185,4 @@ This project reinforced one of the most important principles in analytics:
 ## 📂 Project Files
 
 - [SQL Analysis Script](sql/discount_strategy_analysis.sql)
-- [Tableau Workbook](tableau/Discount_Strategy_Impact_Analysis.twbx)
+- [Tableau Workbook]([tableau/Discount_Strategy_Impact_Analysis.twbx](https://public.tableau.com/app/profile/omar.muniz/viz/DiscountStrategyAnalysis/Dashboard1?publish=yes))
