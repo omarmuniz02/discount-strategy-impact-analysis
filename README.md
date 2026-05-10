@@ -185,3 +185,4 @@ This project reinforced one of the most important principles in analytics:
 ## 📂 Project Files
 
 - [SQL Analysis Script](sql/discount_strategy_analysis.sql)
+- [Detailed Project Notes](docs/project_notes.md)
