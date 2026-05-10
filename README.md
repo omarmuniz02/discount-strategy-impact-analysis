@@ -21,3 +21,7 @@ Analyze how High (>20%), Medium (10–20%), and Low (<10%) discount tiers affect
 - Low discounts (<10%) delivered the highest profitability, with margins near 19%.
 - Revenue remained relatively similar across all discount tiers, suggesting that larger discounts did not materially increase sales.
 - Online and Retail channels showed nearly identical overall profitability, indicating that discount performance was driven more by pricing levels than by channel differences.
+
+## Business Recommendation
+
+Restrict discounts above 20%, as they consistently generated negative margins without producing materially higher revenue. Prioritize medium discount levels (10–20%) to maintain strong sales performance while preserving profitability. Use low discount strategies where possible to maximize gross margin and long-term financial performance.
